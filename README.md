@@ -64,8 +64,7 @@ RegisterNumber:24013567
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![exp 5 1](https://github.com/user-attachments/assets/f47dbbc9-ce27-40a6-9294-50d73e6f3751)
+![exp 5 1](https://github.com/user-attachments/assets/c97880cc-f315-4bae-a932-82c8325a5118)
 
 
 
