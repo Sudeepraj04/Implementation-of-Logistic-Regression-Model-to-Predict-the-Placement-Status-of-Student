@@ -64,7 +64,7 @@ RegisterNumber:24013567
 ```
 
 ## Output:
-![exp 5 1](https://github.com/user-attachments/assets/c97880cc-f315-4bae-a932-82c8325a5118)
+![exp 5 1](https://github.com/user-attachments/assets/aee332c9-7036-4fe3-815b-dd157e52e1ee)
 
 
 
