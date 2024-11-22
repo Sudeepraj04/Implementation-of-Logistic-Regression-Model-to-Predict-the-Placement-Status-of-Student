@@ -64,10 +64,22 @@ RegisterNumber:24013567
 ```
 
 ## Output:
-![exp 5 1](https://github.com/user-attachments/assets/038b0ece-4765-4b27-a982-c8604df0828a)
-
-
-
+## HEAD
+![ML 5 1](https://github.com/user-attachments/assets/53615639-fa63-4f91-9f50-1df9b471c3f8)
+## COPY
+![ML 5 2 COPY](https://github.com/user-attachments/assets/d0fe9423-12df-43e5-93cf-9aad530486d9)
+## FIT TRANSFORM
+![ML 5 3 FIT TRANSFORM](https://github.com/user-attachments/assets/3e6881b5-9862-47c7-b14c-00d418eb2c21)
+## LOGISTIC REGRESSION
+![ML 5 4 LOGISTIC REGRESION](https://github.com/user-attachments/assets/e4e11b82-3239-4c90-90c3-6bdcbd21d00d)
+## ACCURACY SCORE
+![ML 5 5 ACCURACY](https://github.com/user-attachments/assets/da69f076-1530-4124-9258-009d4a3ba01b)
+## CONFUSION MATRIX
+![ML 5 6 CONFUSSION Mtrix](https://github.com/user-attachments/assets/63b2465e-f5d3-4bc7-b528-812a78416744)
+## CLASSIFICATION REPORT
+![ML 5 7 CLASSIFICATION REPORT](https://github.com/user-attachments/assets/20e13e37-bc20-4ad5-b70a-4ae137bc90e9)
+## PREDICITION
+![ML 5 8 PREDICTION](https://github.com/user-attachments/assets/cf5c029b-2247-4e0c-8802-fdf351782337)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
