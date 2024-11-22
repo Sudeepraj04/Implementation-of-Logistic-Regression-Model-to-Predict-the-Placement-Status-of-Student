@@ -64,7 +64,6 @@ RegisterNumber:24013567
 ```
 
 ## Output:
-
 ## HEAD
 ![ML 5 1](https://github.com/user-attachments/assets/53615639-fa63-4f91-9f50-1df9b471c3f8)
 ## COPY
