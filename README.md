@@ -65,7 +65,7 @@ RegisterNumber:24013567
 
 ## Output:
 ## HEAD
-![ML 5 1](https://github.com/user-attachments/assets/53615639-fa63-4f91-9f50-1df9b471c3f8)
+![ML 5 1](https://github.com/user-attachments/assets/5442c421-0d4f-4c05-b488-3de34602d503)
 ## COPY
 ![ML 5 2 COPY](https://github.com/user-attachments/assets/d0fe9423-12df-43e5-93cf-9aad530486d9)
 ## FIT TRANSFORM
