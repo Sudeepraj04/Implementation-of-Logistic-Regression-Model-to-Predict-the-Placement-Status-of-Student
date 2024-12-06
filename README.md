@@ -22,6 +22,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: c r sudeep raj
 RegisterNumber:24013567  
 */
+
 ~~~
 data = pd.read_csv('Placement_Data.csv')
 data.head()
@@ -63,6 +64,7 @@ classification_report1 = classification_report(y_test,y_pred)
 print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])```
 ~~~
+
 ## Output:
 ## HEAD
 ![ML 5 1](https://github.com/user-attachments/assets/5442c421-0d4f-4c05-b488-3de34602d503)
